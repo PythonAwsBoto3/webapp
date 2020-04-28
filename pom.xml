@@ -8,6 +8,14 @@
 	<version>1.0-SNAPSHOT</version>
 	<name>mvn-hello-world Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	
+	<properties>
+  <sonar.projectKey>onkardevops7m_webapp</sonar.projectKey>
+  <sonar.organization>onkardevops7m</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>6827f3de778b68260337a9f76581124c51d64a17</sonar.login>
+</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
