@@ -15,7 +15,7 @@
       <h2 class="text-center">Now you are with Onkar....!!!!!!!!!!</h2>
        <h2 class="text-center">Now you are with Suraj....!!!!!!!!!!</h2>
       <h2 class="text-center">Now you are with Piya....!!!!!!!!!!</h2>
-      <h2 class="text-center">Now you are with Piya....!!!!!!!!!!</h2>
+      <h2 class="text-center">Now you are with Amruta mam....!!!!!!!!!!</h2>
         </div>
 </body>
 </html>
