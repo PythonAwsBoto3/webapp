@@ -15,7 +15,7 @@
        <h2 class="text-center">Now you are with Savita....!!!!!!!!!!</h2>
       <h2 class="text-center">Now you are with Onkar....!!!!!!!!!!</h2>
       <h2 class="text-center">Now you are with Aniket....!!!!!!!!!!</h2>
-      <h2 class="text-center">Now you are with Abhi....!!!!!!!!!!</h2>
+      <h2 class="text-center">Now you are with Akshay....!!!!!!!!!!</h2>
       <h2 class="text-center">Now you are with Mahesh....!!!!!!!!!!</h2>
       
         </div>
