@@ -23,3 +23,9 @@ https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-deliv
 ## bug fixing
 copy configs/context.xml to <TOMCAT>/webapps/manager/META-INF/
 copy configs/tomcat-users.xml to <TOMCAT>/conf/ 
+
+## hints to start for DK
+cd /usr/local/apache-tomcat-9.0.37/bin/
+./startup.sh
+
+Example http://ec2-18-218-1-221.us-east-2.compute.amazonaws.com:8080/mvn-hello-world/
