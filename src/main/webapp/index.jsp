@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-color:blue">
+  <div class="jumbotron" style="background-color:rgb(0, 183, 255)">
      <h1 class="text-center">Welcome to Learning Git!!!</h1>
       <!--img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"-->
