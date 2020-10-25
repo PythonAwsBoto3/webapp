@@ -10,7 +10,8 @@
      <h1 class="text-center">Welcome to Training</h1>
   </div>
   <div>
-    <h2 class="text-center">Hello, Team!!!</h2>
+    <h1></h1>
+    <h1 class="text-center">Hello, Team!!!</h1>
   </div>
   <div>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" alt="Spidertocat"
