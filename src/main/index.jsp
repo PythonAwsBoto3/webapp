@@ -8,8 +8,9 @@
 <body>
   <div class="jumbotron" style="background-color:rgb(25, 136, 211)">
      <h1 class="text-center">Welcome to Training</h1>
-     <h1 class="text-center">Hello, ESP Team!!!</h1>
   </div>
+  <div> 
+      <h1 class="text-center">Hello, ESP Team!!!</h1>
   <div>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px">
