@@ -8,9 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:rgb(25, 136, 211)">
      <h1 class="text-center">Welcome to Training</h1>
-  </div>
-  <div>
-    <h1 class="text-center">Hello, Team!!!</h1>
+     <h1 class="text-center">Hello, Team!!!</h1>
   </div>
   <div>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" alt="Spidertocat"
