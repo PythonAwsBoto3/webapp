@@ -6,10 +6,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-    <div>
-       <h1 class="text-center">HELLO, ESP TEAM!!!</h1>
-    </div>
     <div class="jumbotron" style="background-color:rgb(25, 136, 211)">
+        <h1 class="text-center">HELLO, ESP TEAM!!!</h1>
         <h1 class="text-center">Welcome to Training</h1>
     </div>
     <div>
