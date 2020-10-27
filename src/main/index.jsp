@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-color:rgb(25, 136, 211)">
+  <div class="jumbotron" style="background-color:rgb(25, 211, 96)">
      <h1 class="text-center">Welcome to Training</h1>
   </div>
   <div> 
