@@ -6,16 +6,18 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-color:rgb(25, 136, 211)">
-     <h1 class="text-center">Welcome to Training</h1>
-      <h2 class="text-center">Hello, ESP Team!!!</h2> 
-  </div>
-  <div>
+    <div>
+       <h2 class="text-center">Hello, ESP Team!!!</h2>
+    </div>
+    <div class="jumbotron" style="background-color:rgb(25, 136, 211)">
+        <h1 class="text-center">Welcome to Training</h1>
+    </div>
+    <div>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px">
-  </div>
-  <div>
-      <!--h1 class="text-center">THANK YOU</h1--> 
-  </div>
+    </div>
+    <div>
+      <h1 class="text-center">THANK YOU</h1> 
+    </div>
 </body>
 </html>
