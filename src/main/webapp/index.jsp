@@ -15,7 +15,8 @@
            class="img-responsive center-block" style="width:250px">
     </div>
     <div>
-      <h1 class="text-center">THANK YOU</h1> 
+        <h1 class="text-center">First Touch</h1>
+        <!--h1 class="text-center">THANK YOU</h1--> 
     </div>
 </body>
 </html>
