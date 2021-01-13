@@ -6,9 +6,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-    <div class="jumbotron" style="background-color:rgb(25, 136, 211)">
+    <div class="jumbotron" style="background-color:rgb(25, 211, 96)">
         <h1 class="text-center">Hello Test Team!</h1>
-        <h1 class="text-center">Welcome to Training</h1>
+        <h1 class="text-center">Welcome to the Training</h1>
     </div>
     <div>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" alt="Spidertocat"
