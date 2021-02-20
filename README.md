@@ -19,3 +19,7 @@ https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-deliv
 * Import 'mvn-hello-world-web-app' as existing project into Eclipse 
 * Use maven to run integration tests and install
  * mvn clean install
+
+## bug fixing
+copy configs/context.xml to <TOMCAT>/webapps/manager/META-INF/
+copy configs/tomcat-users.xml to <TOMCAT>/conf/ 
