@@ -14,7 +14,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Now you are with Shenal....!!!!!!!!!!</h2>
       <h2 class="text-center">Now you are with Parul....!!!!!!!!!!</h2>
-      <h2 class="text-center">Now you are with Khushal....!!!!!!!!!!</h2>
+      <h2 class="text-center">Now you are with Yogesh....!!!!!!!!!!</h2>
       <h2 class="text-center">Now you are with Sachin....!!!!!!!!!!</h2>
      
         </div>
