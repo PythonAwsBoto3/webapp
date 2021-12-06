@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="jumbotron" style="background-color:rgb(25, 211, 65)">
-        <h1 class="text-center">Hello Test Team!</h1>
+        <h1 class="text-center">Hello Team!</h1>
         <h1 class="text-center">Welcome to the Training</h1>
     </div>
     <div>
