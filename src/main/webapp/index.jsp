@@ -16,7 +16,7 @@
     </div>
     <div>
         <h2 class="text-center">First Touch</h2>
-        <h1 class="text-center">THANK YOU!!!</h1> 
+        <h1 class="text-center">THANK YOU</h1> 
     </div>
 </body>
 </html>
