@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to Learning GIT </title>
+    <title>Welcome to Learning GIT!!!</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
@@ -16,7 +16,7 @@
     </div>
     <div>
         <h2 class="text-center">First Touch</h2>
-        <h1 class="text-center">THANK YOU</h1> 
+        <h1 class="text-center">THANK YOU!!!</h1> 
     </div>
 </body>
 </html>
